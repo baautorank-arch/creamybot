@@ -3,10 +3,12 @@ from discord.ext import commands
 import json
 import os
 
+# Load config (without token)
 with open("config.json") as f:
     config = json.load(f)
 
-TOKEN = config["TOKEN"]
+# Get token from environment variable
+TOKEN = os.getenv("DISCORD_TOKEN")
 
 intents = discord.Intents.default()
 intents.guilds = True
@@ -33,3 +35,5 @@ async def setup_hook():
         print(f"❌ Failed to sync commands: {e}")
 
 bot.run(TOKEN)
+
+
