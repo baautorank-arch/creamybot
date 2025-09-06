@@ -1,0 +1,12 @@
+{
+  "TOKEN": "",
+  "GUILD_ID": "",
+  "MANAGEMENT_ROLE_ID": "",
+  "SHIFT_CHANNEL_ID": "",
+  "GOOGLE_SHEET_NAME": "Creamy Dreams | Staff Database",
+  "GOOGLE_CREDENTIALS_FILE": "credentials.json",
+  "WORKSHEET_NAME": "Staff Database",
+  "EMPLOYMENT_WORKSHEET_NAME": "Employment Records"
+
+}
+
