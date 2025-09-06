@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "citric-nova-466218-s2",
+  "private_key_id": "e2372482b1b9bc4a0af5e704129f6bff77a82fe2",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQCmW7Pyf/Z1Z7QE\nOXlQv6S8Z5l0WaVReAEzL810rCPID0N7ebLsOfKw9RocyTbwrutwPZidEgK/wBo9\nqoP7orhXWUhcq5gPPst52WAAEaY6tcettbp8/y3o5QjDoDzF3W7YeS5K0NtpxQhA\ngQFpwl+pB9p30MPMB23BAS7ZdYZyQ93kZaCgj4pHPk7Onu5FI0frzQ60524LZFs+\nhtvxOM6/fDaFrsAXecYe9VUmUuwshq1u8SF6h2lh2GPdzUDnb9NFE1g1yjFwRc+F\nElNG/zN2AUKyhU9dPqNbrnLeGT7fHjTuD6037CDRMwwh6mxh1EWmRr+6DuylC9RI\nKOmPq+LVAgMBAAECggEAEZ4fkfxsQOXBIjtl9h+9lfhQv4oo4FZZpi6XTxZV2b+I\nEYEDalH+ui/S2p6Sk22q4GGdknDQWrdA8CvpO1JxvEpnx+yiN2cajGZxbMBxvsD2\nixZ2T/uERKhQw8rp9LhtHz7CIMk6m1py88XVvPoJQHDk+ZBh0+8rd+ekqwHvwZTz\nc2ajffZSnN0v5tOlNXYMtfrnWvOC5CKD2jVVwZMZHSx3YbFv4a8EzMjTJ0SV0YiQ\nAXeaWrbmnYcgkCr2/yJs2gOdT+k7mR3M8s1JVGV/oQ+wypYFKgWmW6vOrKn5Lnm7\noKXl9sMXtGeC9yrUfXUvT1ugOwhHHDd4nJ2S7gpkVwKBgQDj5NrjLj2L5p6rzYQe\nItbw4Wl0RX4Sf3Ibu6LRQpYud7fnOQLH82vFi2wUh7Jp2vS1p4DhxylcQSmieAWV\n/aSTmVVWXbE2zbeSoC+UE7/fkQj+QjdZQI8LKfnRfEdf+/puZ7XAG2RBVMLafUji\n15oQo4vskT39PccdAxNLuSCMIwKBgQC64AU9KDA5BILDs8rKMQrrDw0A43TfHCIN\nLGzxCDKB4IqVMMsdqrT2a/jxPWOzdqTZ/k0DCBnk6EIWyzZom+CbCYFIVJBuPOxB\nVb65T28OTwoDsgWjosBKFBSz9GnhFXQ3v1/cTe+hr3qjHPBWDm9d6hyHobTOHWv3\nwo9os3kopwKBgQCBphzwycmx4Y27Z7wV+PQXLeX0g+RpWZ/tLx49togB/5HcNY7j\nehSB2gOu2lQh7LLy9UxZJhjdpySsjWOAJUCPx9fIvpym9PnOrNrkfyfVZImdPMaI\nPDYkv8ij6PQiIxQh41Z+6BZtJG+GJWhlxQqdFK3x8980RwUT+D/uAHAHyQKBgQCE\n8hrIB29HIQ5ma+I5Nequj2aQ20Cp+TnAZXqbf1lvTG9K9AuMb4WOSgIwnZvwcNeW\nvnPLVFgXoaRi0u9CPKLtqTVwX7jgtDbfxECLVReM9m4JcvzQDVj/Wonf/GHW34xu\nnJd2A3wXat+0a0IP9vUDuynQ1BntCMFm4eNkeUoYwQKBgBUKH6oZexrJ081ogLPY\nHyILftpfRrxvhOZwubJoG5CIUx4OMSrvfqtSu8KZVWRhaGVqyy38uGM2OGrfAGoL\nHwE4wHEInXeQUxbJ1pdbG/sNA0Bd9yao5k53lu9m5tZXmSr0pgcrZ22ZkxZo+fIk\ni+MUpX979GptbTqqJi8oi8jH\n-----END PRIVATE KEY-----\n",
+  "client_email": "roblox-gsheets@citric-nova-466218-s2.iam.gserviceaccount.com",
+  "client_id": "101014725390259228593",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/roblox-gsheets%40citric-nova-466218-s2.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
